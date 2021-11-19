@@ -1,4 +1,4 @@
-<h2> Hi, I'm Gaby! <img src="https://media.giphy.com/media/5jUAT1pNAgRfc3Ev4M/giphy.gif" width="35"></h2>
+<h2> Hi, I'm Gabz! <img src="https://media.giphy.com/media/5jUAT1pNAgRfc3Ev4M/giphy.gif" width="35"></h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <p>Welcome to my page! </br> I'm a Fullstack developer from <img src="https://user-images.githubusercontent.com/82906323/142582168-8eaf17bf-71dc-475a-a246-11d24dab9331.png" width="13"/> <b>Tucumán, Argentina</b> </p>
@@ -15,6 +15,16 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+```javascript
+const gabz = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Styled-Components, Node, MongoDb ],
+  
+  challenge: "I am doing the Alkemy Challenge focused on React, using Formik, Axios and a Superhero Api"
+}
+```
 
 
 <h3>Where to find me</h3>
