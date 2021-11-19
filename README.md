@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Gabriela, Fullstack developer from <img src="![image](https://user-images.githubusercontent.com/82906323/142581504-183564f8-e13b-4e17-8015-688a501af2b1.png)" width="13"/> <b>Tucumán, Argentina</b> </p>
+<p>Welcome to my page! </br> I'm Gabriela, Fullstack developer from <img src="https://user-images.githubusercontent.com/82906323/142581689-7b26e9d0-b006-4468-b73a-aec0de814c21.png" width="13"/> <b>Tucumán, Argentina</b> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
