@@ -1,6 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h2> Hi, I'm Gabriela Pérez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p>Welcome to my page! </br> I'm Gabriela, Fullstack developer from <img src="https://user-images.githubusercontent.com/82906323/142582168-8eaf17bf-71dc-475a-a246-11d24dab9331.png" width="13"/> <b>Tucumán, Argentina</b> </p>
+<p>Welcome to my page! </br> I'm a Fullstack developer from <img src="https://user-images.githubusercontent.com/82906323/142582168-8eaf17bf-71dc-475a-a246-11d24dab9331.png" width="13"/> <b>Tucumán, Argentina</b> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -20,6 +21,8 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/mgabzp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gabriela-pérez-854332149/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.instagram.com/mgabzp/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--
 **mgabzp/mgabzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
