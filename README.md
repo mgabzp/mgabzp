@@ -20,7 +20,7 @@
 const gabz = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
-  tools: [React, Styled-Components, Node, MongoDb ],
+  tools: [React, Styled-Components, Node, Postman, MongoDb ],
   
   challenge: "I am doing the Alkemy Challenge focused on React, using Formik, Axios and a Superhero Api"
 }
@@ -31,7 +31,7 @@ const gabz = {
 <p><a href="https://github.com/mgabzp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gabriela-pérez-854332149/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.instagram.com/mgabzp/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--
 **mgabzp/mgabzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
