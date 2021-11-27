@@ -8,7 +8,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-430098?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
-  <img alt="React" src="https://img.shields.io/badge/-React-808080?style=flat-square&logo=react&logoColor=0000ff" />
+  <img alt="React" src="https://img.shields.io/badge/-React-212121?style=flat-square&logo=react&logoColor=64b5f6" />
   
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
