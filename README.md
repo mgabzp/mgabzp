@@ -36,7 +36,7 @@ const gabz = {
   tools: [React, Node, Postman, MongoDb],
   methodology: [Scrum],
   
-  challenge: "Currently doing the Alkemy Challenge focused on React, using Formik, Axios and Superhero Api"
+  challenge: "Currently learning a bit more about React Hooks, Redux and NextJs"
 }
 ```
 
